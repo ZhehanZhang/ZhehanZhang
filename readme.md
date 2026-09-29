@@ -25,7 +25,7 @@ I also build and run the websites and IT for [Ricci Scholars Foundation](https:/
 
 ## Elsewhere
 
-I make documentaries: *[The Song of the Village](https://youtu.be/QWqUUAjtPrg)* won Best Documentary at the Student World Awards.
+I make documentaries: *[The Song of the Village](https://youtu.be/QWqUUAjtPrg)* won multiple awards, and received nominations in multiple film festivals, including the Oscar-nominating SJSFF.
 
 I'm a program development intern at Penn AI, a research initiative by Penn's Vice Provost for Research, and I'm also founding Penn Embodied AI, a student club focused on how AI interacts with the real world.
 
