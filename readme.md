@@ -19,7 +19,7 @@ Desktop app for chairing Model UN committees. In beta at my high school.
 Merged support for 21Vianet, the China-operated Microsoft 365 cloud.
 
 **Self-Hosted**  
-My own servers in the US, China, Singapore, Hong Kong, and Romania.
+My own servers in the US, China, Singapore, Hong Kong SAR, and Romania.
 
 I also build and run the websites and IT for [Ricci Scholars Foundation](https://riccischolars.org) and [Conservation Edgewalkers](https://conedge.org).
 
