@@ -9,6 +9,9 @@ First-year at the University of Pennsylvania, interested in computational cognit
 **[ZhehanZ.com / Zheha.nZ](https://zhehanz.com)**  
 My site. Kirby CMS on a heavily reworked Astro theme. Open source soon.
 
+**[AutoPass](https://github.com/ZhehanZhang/AutoPass)**  
+No more manual 6-digit code entry. Secure utility to automate iCloud Passwords pairing for third-party browsers on macOS.
+
 **OurHarbor Provision**  
 Runs AI coding agents on open math problems and scores every attempt as a knowledge graph. Built for a group of mathematicians. Private.
 
